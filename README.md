@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot about ostriches and how they are adapted to the highly fluctuating climate they thrive in. But mostly I am still figuring out research, genomics, how to organise, write scrips... and how to use git and github 😅.
 - 💞️ I’m looking to collaborate on the interaction of endotherms (especially birds) with their gut microbiota and how that influences thermoregulation.
 - 📫 How to reach me: leahuber\[at\]bio.au.dk
-- 😄 Pronouns: she/her
+- 👱‍♀️ Pronouns: she/her
 - ⚡ Fun fact: My dream is to explore Iceland on horseback 🏇
 
 <!---
