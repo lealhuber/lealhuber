@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the interaction of endotherms (especially birds) with their gut microbiota and how that influences thermoregulation.
 - 📫 How to reach me: leahuber\[at\]bio.au.dk
 - 👱‍♀️ Pronouns: she/her
-- ⚡ Fun fact: My dream is to explore Iceland on horseback 🏇
+- ⚡ Fun fact: My dream is to explore Iceland on horseback 🇮🇸 🌋 🏇
 
 <!---
 lealhuber/lealhuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
